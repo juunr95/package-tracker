@@ -5,7 +5,7 @@
 Simple API for track packages.
 
 - For now only support Correio/BR tracking. It's on work more tracking features.
-- 
+
 ## Dependencies
 
 This project uses:
@@ -33,7 +33,7 @@ After that you can run
 php artisan serve
 ```
 
-You can try a live demo of it on: https://juunr95.github.io/package-tracker
+You can try a live demo of it on: https://wegroup.app.br/
 ## License
 
 MIT
